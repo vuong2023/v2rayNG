@@ -26,7 +26,7 @@ jobs:
     - name: Checkout v2rayNG repository
       uses: actions/checkout@v4
       with:
-        repository: '2dust/v2rayNG'
+        repository: 'GFW-knocker/MahsaNG'
 
     - name: Checkout AndroidLibXrayLite repository
       uses: actions/checkout@v4
